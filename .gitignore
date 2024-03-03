@@ -1,3 +1,11 @@
+# file having program output and config
+lines.txt
+config.yml
+
+# venv files
+pyvenv.cfg
+Scripts/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
