@@ -6,6 +6,9 @@ config.yml
 pyvenv.cfg
 Scripts/
 
+# vs code files
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
